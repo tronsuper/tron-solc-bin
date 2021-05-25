@@ -5,5 +5,13 @@
   "0.5.8": "soljson_v0.5.8.js",
   "0.5.9": "soljson_v0.5.9.js",
   "0.5.10": "soljson_v0.5.10.js",
-  "0.5.12": "soljson_v0.5.12.js"
+  "0.5.12": "soljson_v0.5.12.js",
+  "0.5.13": "soljson_v0.5.13.js",
+  "0.5.14": "soljson_v0.5.14.js",
+  "0.5.15": "soljson_v0.5.15.js",
+  "0.5.16": "soljson_v0.5.16.js",
+  "0.5.17": "soljson_v0.5.17.js",
+  "0.6.0": "soljson_v0.6.0.js",
+  "0.6.2": "soljson_v0.6.2.js",
+  "0.6.8": "soljson_v0.6.8.js"
 }
