@@ -16,5 +16,6 @@
   "0.6.8": "soljson_v0.6.8.js",
   "0.6.12": "soljson_v0.6.12.js",
   "0.7.0": "soljson_v0.7.0.js",
-  "0.7.6": "soljson_v0.7.6.js"
+  "0.7.6": "soljson_v0.7.6.js",
+  "0.8.0": "soljson_v0.8.0.js"
 }
