@@ -11,11 +11,14 @@
   "0.5.15": "soljson_v0.5.15.js",
   "0.5.16": "soljson_v0.5.16.js",
   "0.5.17": "soljson_v0.5.17.js",
+  "0.5.18": "soljson_v0.5.18.js",
   "0.6.0": "soljson_v0.6.0.js",
   "0.6.2": "soljson_v0.6.2.js",
   "0.6.8": "soljson_v0.6.8.js",
   "0.6.12": "soljson_v0.6.12.js",
+  "0.6.13": "soljson_v0.6.13.js",
   "0.7.0": "soljson_v0.7.0.js",
   "0.7.6": "soljson_v0.7.6.js",
+  "0.7.7": "soljson_v0.7.7.js",
   "0.8.0": "soljson_v0.8.0.js"
 }
