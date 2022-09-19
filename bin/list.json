@@ -137,6 +137,24 @@
       "version": "0.8.6",
       "build": "commit.0e36fba",
       "longVersion": "0.8.6+commit.0e36fba"
+    },
+    {
+      "path": "soljson_v0.8.7+commit.2128cde.js",
+      "version": "0.8.7",
+      "build": "commit.2128cde",
+      "longVersion": "0.8.7+commit.2128cde"
+    },
+    {
+      "path": "soljson_v0.8.11+commit.b01f328.js",
+      "version": "0.8.11",
+      "build": "commit.b01f328",
+      "longVersion": "0.8.11+commit.b01f328"
+    },
+    {
+      "path": "soljson_v0.8.15+commit.5ff156c.js",
+      "version": "0.8.15",
+      "build": "commit.5ff156c",
+      "longVersion": "0.8.15+commit.5ff156c"
     }
   ],
   "releases": {
@@ -162,7 +180,10 @@
     "0.7.6": "soljson_v0.7.6+commit.d1802f2.js",
     "0.7.7": "soljson_v0.7.7+commit.0423f3a.js",
     "0.8.0": "soljson_v0.8.0+commit.7c2e641.js",
-    "0.8.6": "soljson_v0.8.6+commit.0e36fba.js"
+    "0.8.6": "soljson_v0.8.6+commit.0e36fba.js",
+    "0.8.7": "soljson_v0.8.7+commit.2128cde.js",
+    "0.8.11": "soljson_v0.8.11+commit.b01f328.js",
+    "0.8.15": "soljson_v0.8.15+commit.5ff156c.js"
   },
-  "latestRelease": "0.8.6"
+  "latestRelease": "0.8.15"
 }
