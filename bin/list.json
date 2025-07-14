@@ -179,6 +179,12 @@
       "version": "0.8.23",
       "build": "commit.8ed3344",
       "longVersion": "0.8.23+commit.8ed3344"
+    },
+    {
+      "path": "soljson_v0.8.24+commit.7d902c6.js",
+      "version": "0.8.24",
+      "build": "commit.7d902c6",
+      "longVersion": "0.8.24+commit.7d902c6"
     }
   ],
   "releases": {
@@ -211,7 +217,8 @@
     "0.8.20": "soljson_v0.8.20+commit.5f1834b.js",
     "0.8.21": "soljson_v0.8.21+commit.1425c99.js",
     "0.8.22": "soljson_v0.8.22+commit.5ed3e10.js",
-    "0.8.23": "soljson_v0.8.23+commit.8ed3344.js"
+    "0.8.23": "soljson_v0.8.23+commit.8ed3344.js",
+    "0.8.24": "soljson_v0.8.24+commit.7d902c6.js"
   },
-  "latestRelease": "0.8.23"
+  "latestRelease": "0.8.24"
 }
